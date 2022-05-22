@@ -13,6 +13,7 @@ import javax.persistence.Id;
 import javax.persistence.ManyToOne;
 import javax.persistence.OneToMany;
 
+import br.com.alura.forum.enums.StatusTopico;
 import lombok.Getter;
 import lombok.Setter;
 

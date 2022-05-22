@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import br.com.alura.forum.modelo.StatusTopico;
+import br.com.alura.forum.enums.StatusTopico;
 import br.com.alura.forum.modelo.Topico;
 import lombok.Getter;
 
