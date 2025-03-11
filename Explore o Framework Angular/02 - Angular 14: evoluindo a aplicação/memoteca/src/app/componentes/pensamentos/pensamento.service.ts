@@ -10,7 +10,6 @@ export class PensamentoService {
 
   private API = 'http://localhost:3001/pensamentos';
 
-
   constructor(private http: HttpClient) {}
 
   listar(): Observable<Pensamento[]> {
