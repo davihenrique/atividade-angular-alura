@@ -9,6 +9,5 @@
   "extensions": [
     "dbaeumer.vscode-eslint",
     "angular.ng-template"
-  ],
-  "postCreateCommand": "npm install -g @angular/cli@15.0.5"
+  ]
 }
