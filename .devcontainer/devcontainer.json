@@ -9,5 +9,6 @@
   "extensions": [
     "dbaeumer.vscode-eslint",
     "angular.ng-template"
-  ]
+  ],
+  "postCreateCommand": "for d in Course*; do [ -d \"$d\" ] && (cd \"$d\" && npm install); done"
 }
