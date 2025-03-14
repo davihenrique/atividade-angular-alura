@@ -1,0 +1,14 @@
+{
+  "name": "My Codespace",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "bash"
+  },
+  "extensions": [
+    "dbaeumer.vscode-eslint",
+    "angular.ng-template"
+  ],
+  "postCreateCommand": "npm install -g @angular/cli@15.0.5"
+}
