@@ -12,14 +12,14 @@
       "conteudo": "Vc faz TI? Conserta meu celular!",
       "autoria": "Grupo da família",
       "modelo": "modelo1",
-      "favorito": true
+      "favorito": false
     },
     {
       "conteudo": "Já tentou reiniciar o roteador?",
       "autoria": "Pessoa da operadora",
       "modelo": "modelo3",
       "id": 5,
-      "favorito": true
+      "favorito": false
     },
     {
       "conteudo": "Da vida reclama, mas sem ela não vive!",
@@ -33,7 +33,7 @@
       "autoria": "Dev",
       "modelo": "modelo3",
       "id": 7,
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 9,
@@ -103,14 +103,14 @@
       "autoria": "Mestre Yoda",
       "modelo": "modelo1",
       "id": 21,
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 22,
       "conteudo": "Não faça drama, faça café! :)",
       "autoria": "Dev",
       "modelo": "modelo2",
-      "favorito": false
+      "favorito": true
     },
     {
       "conteudo": "Conserta minha impressora?",
@@ -124,7 +124,7 @@
       "autoria": "Mãe",
       "modelo": "modelo1",
       "id": 24,
-      "favorito": false
+      "favorito": true
     },
     {
       "conteudo": "Por que meu código funcionou?",
