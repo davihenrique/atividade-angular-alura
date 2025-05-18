@@ -1,20 +1,32 @@
 {
-	"folders": [
-		{
-			"path": "AluraBooks"
-		},
-		{
-			"path": "Animacoes"
-		},
-		{
-			"path": "Buscante"
-		},
-		{
-			"path": "ListaDeCompras"
-		},
-		{
-			"path": "Memoteca"
-		}
-	],
-	"settings": {}
+  "folders": [
+    {
+      "path": ".",
+      "name": "Angular Alura"
+    },
+    {
+      "path": "AluraBooks"
+    },
+    {
+      "path": "Animacoes"
+    },
+    {
+      "path": "Buscante"
+    },
+    {
+      "path": "ListaDeCompras"
+    },
+    {
+      "path": "Memoteca"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "AluraBooks": true,
+      "Animacoes": true,
+      "Buscante": true,
+      "ListaDeCompras": true,
+      "Memoteca": true
+    }
+  }
 }
