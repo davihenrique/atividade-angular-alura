@@ -138,7 +138,7 @@ export const formButtonTrigger = trigger('formButton', [
   ]),
 ]);
 
-export const sahakeTrigger = trigger('shakeAnimation',[
+export const shakeTrigger = trigger('shakeAnimation',[
   transition('* => *', [
     query('input.ng-invalid:focus, select.ng-invalid:focus', [
       animate('0.5s', keyframes([
